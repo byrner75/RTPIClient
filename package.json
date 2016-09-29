@@ -7,7 +7,12 @@
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "grunt mochaTest"
+  },
+  "repository" :
+  { 
+    "type" : "git", 
+    "url" : "https://github.com/byrner75/RTPIClient.git"
   },
   "author": "Rob Byrne",
   "license": "ISC",
