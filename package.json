@@ -1,6 +1,6 @@
 {
   "name": "rtpiclient",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a client for rtpi data provider",
   "main": "RTPIClient.js",
   "directories": {
@@ -16,6 +16,9 @@
   },
   "author": "Rob Byrne",
   "license": "ISC",
+  "keywords": [
+    "rtpi", "bus", "rail"
+  ],
   "devDependencies": {
     "chai": "^3.5.0",
     "grunt": "^1.0.1",
